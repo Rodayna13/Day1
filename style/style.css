@@ -1,0 +1,127 @@
+body {
+     font-family: "Open Sans", sans-serif;
+     color: #444444;
+     background: #f9f9f9;
+   }
+   
+ 
+#hero {
+     width: 100%;
+     height: 90vh;
+  
+   }
+   
+   #hero .container {
+     padding-top:10%;
+   }
+   
+   #hero h1 {
+     margin: 0;
+     font-size: 42px;
+     font-weight: 700;
+     line-height: 56px;
+     color: #0f394c;
+     text-transform: uppercase;
+   }
+   
+   #hero h2 {
+     color: #1c698c;
+     margin: 10px 0 0 0;
+     font-size: 20px;
+   }
+   
+   #hero .btn-get-started {
+     font-family: "Dosis", sans-serif;
+     font-weight: 500;
+     font-size: 16px;
+     letter-spacing: 1px;
+     display: inline-block;
+     padding: 8px 28px;
+     border-radius: 3px;
+     transition: 0.5s;
+     margin-top: 25px;
+     color: #fff;
+     background: #49b5e7;
+     text-transform: uppercase;
+   }
+   
+   #hero .btn-get-started:hover {
+     background: #76c7ed;
+   }
+   #hero .hero-img img {
+     width: 95%;
+   }
+   
+
+   .profile-container {
+     width: 90%;
+     margin: auto;
+     padding: 20px;
+     box-shadow: 0 0 10px #ccc;
+     text-align: center;
+ }
+ 
+ .profile-header {
+     margin-bottom: 20px;
+ }
+ 
+ .profile-photo {
+     width: 100px;
+     height: 100px;
+     margin-top: 10px;
+ }
+ 
+ .profile-info ul, .profile-info ul li {
+     list-style: none;
+     padding: 0;
+ }
+ 
+ .profile-info a {
+     color: blue;
+     text-decoration: none;
+ }
+ 
+ .profile-info a:hover {
+     text-decoration: underline;
+ }
+ 
+ .social-media a {
+     margin-right: 10px;
+     text-decoration: none;
+     color: #333;
+ }
+ 
+ .social-media a:hover {
+     text-decoration: underline;
+ }
+ 
+ .footer {
+     text-align: center;
+     margin-top: 20px;
+     color: #666;
+ }
+ 
+ .profile-about textarea {
+     width: 100%;
+     height: 100px;
+     margin-top: 10px;
+ }
+ ul
+ {
+     font-size: 20px;
+ }
+ .bt{
+  background-color:#B20267;
+   padding:4%;
+    width: 40%;
+    height: 90%;
+    color: aliceblue;
+     font-size: 25px;
+     font-weight: bolder; 
+     border-radius: 20px;
+     border-color: antiquewhite;
+ }
+ .bt:hover
+ {
+  background-color: #c4197ad2;
+ }
